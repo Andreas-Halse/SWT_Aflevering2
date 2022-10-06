@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eIdhpeFK41r9SahzTlD/Ds99/cl5O028IfGWVpHB4zZ01irF4I6b5uuT9oifu0k6Pf71W+rhYn+eHA4bmon4IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oscar\\Downloads\\AU\\AU\\4.semester\\SW_Test\\SWT_Aflevering2\\ChargeStation\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oscar\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\oscar\\.nuget\\packages\\nunitxml.testlogger\\3.0.127\\nunitxml.testlogger.3.0.127.nupkg.sha512"
+  ],
+  "logs": []
+}
