@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opladestation", "Opladestation.csproj", "{6B430BE4-17F9-4EF3-8AF4-82B723FEEAAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChargeStation", "ChargeStation.csproj", "{1249743C-D199-444C-A19C-5C76E9BE03FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6B430BE4-17F9-4EF3-8AF4-82B723FEEAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B430BE4-17F9-4EF3-8AF4-82B723FEEAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6B430BE4-17F9-4EF3-8AF4-82B723FEEAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6B430BE4-17F9-4EF3-8AF4-82B723FEEAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1249743C-D199-444C-A19C-5C76E9BE03FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1249743C-D199-444C-A19C-5C76E9BE03FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1249743C-D199-444C-A19C-5C76E9BE03FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1249743C-D199-444C-A19C-5C76E9BE03FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7B8D166A-ADE3-4AE7-99AE-611D20E6C761}
+		SolutionGuid = {A5011020-A319-47A8-A99B-271A8F1CE28F}
 	EndGlobalSection
 EndGlobal
