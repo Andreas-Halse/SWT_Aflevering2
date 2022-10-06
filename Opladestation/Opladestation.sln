@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opladestation", "Opladestation.csproj", "{6B430BE4-17F9-4EF3-8AF4-82B723FEEAAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B430BE4-17F9-4EF3-8AF4-82B723FEEAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B430BE4-17F9-4EF3-8AF4-82B723FEEAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B430BE4-17F9-4EF3-8AF4-82B723FEEAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B430BE4-17F9-4EF3-8AF4-82B723FEEAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B8D166A-ADE3-4AE7-99AE-611D20E6C761}
+	EndGlobalSection
+EndGlobal
